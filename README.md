@@ -12,14 +12,14 @@ Clone repo to local
 > $ git clone https://github.com/berezucc/Cat-Watch
 
 Run Front-end
-> cd client
+> $ cd client
 
-> npm start
+> $ npm start
 
 Start Back-end Server
-> cd server
+> $ cd server
 
-> node server.js
+> $ node server.js
 
 ## Build
 Front-end developed with React.js framework.
