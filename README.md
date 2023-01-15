@@ -32,3 +32,5 @@ Using my prior knowledge of front-end web development, I used the most current f
 I also have prior experince with SQL and MySQL but I decided that utilizing MongoDB and their services will make this project run smoother.
 
 ## Visuals
+![Landing Page](/landing_page.JPG)
+![Saved Images Page](./saved_cats.JPG)
