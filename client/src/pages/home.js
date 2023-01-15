@@ -6,6 +6,7 @@ import React, { useState } from 'react';
 import CatGenerator from '../components/cats';
 import NavBar from '../components/navbar';
 import Title from '../components/title';
+import Footer from '../components/footer';
 
 
 function Home() {
@@ -14,6 +15,7 @@ function Home() {
       <Title />
       <CatGenerator />
       <NavBar />
+      <Footer />
     </div>
   );
 }

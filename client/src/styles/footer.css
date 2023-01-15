@@ -1,0 +1,21 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 0 auto;
+}
+#copyright{
+    display:inline;
+    float:left;
+    padding-left: 10px;
+    font-size:1.25em;
+}
+.github{
+    color: rgb(0, 0, 0);
+    float:right;
+    font-size:5em;
+    padding-right: 15px;
+}
+.github:hover{
+    color: rgba(0, 0, 0, 0.629);
+}

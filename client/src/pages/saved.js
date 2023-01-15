@@ -6,6 +6,7 @@ import { FaBeer, FaBookmark, FaHeart, FaHome, FaRemoveFormat, FaStopCircle, FaTr
 // Components
 import NavBar from '../components/navbar';
 import SavedTitle from '../components/saved-title';
+import Footer from '../components/footer';
 
 const Profile = (props) => (
     <div className="profiles">
@@ -68,6 +69,7 @@ function Saved(){
               {recordList()}  
             </div>
             <NavBar />
+            <Footer />
         </div>
     );
 }
