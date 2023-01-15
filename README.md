@@ -1,7 +1,7 @@
 # Cat Watch
 
 ## Demo
-Link: 
+Link: https://cat-watch-front-end.onrender.com/
 
 ## Setup
 Prerequistes: 
@@ -30,6 +30,7 @@ Database used for this project is MongoDB.
 I wanted to better familiarize myself with full-stack and MERN stack development.
 Using my prior knowledge of front-end web development, I used the most current framework, React.js.
 I also have prior experince with SQL and MySQL but I decided that utilizing MongoDB and their services will make this project run smoother.
+The front-end and back-end are hosted on onrender.com
 
 ## Visuals
 ![Landing Page](/landing_page.JPG)
