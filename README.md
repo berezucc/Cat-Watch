@@ -13,10 +13,12 @@ Clone repo to local
 
 Run Front-end
 > cd client
+
 > npm start
 
 Start Back-end Server
 > cd server
+
 > node server.js
 
 ## Build
