@@ -1,0 +1,15 @@
+.App{
+ margin:0;
+ padding:0;
+ height:100vh;
+ background: linear-gradient(-45deg, #FF2CAA 0%, #ffff01 100%);
+ background-size: 400%;
+ animation: bg-animation 10s infinite alternate;
+ justify-content: center;
+ text-align: center;
+}
+
+@keyframes bg-animation{
+    0% {background-position: left}
+    100% {background-position: right}
+}
