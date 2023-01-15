@@ -1,7 +1,7 @@
 # Cat Watch
 
 ## Demo
-Link: https://cat-watch-front-end.onrender.com/
+Live Link: https://cat-watch-front-end.onrender.com/
 
 ## Setup
 Prerequistes: 
