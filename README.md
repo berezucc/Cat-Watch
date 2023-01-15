@@ -38,5 +38,5 @@ The front-end and back-end are hosted on onrender.com
 ![Saved Images Page](./saved_cats.JPG)
 
 ## References
-https://thecatapi.com/
+https://thecatapi.com/ <br/>
 https://www.mongodb.com/languages/mern-stack-tutorial
