@@ -22,9 +22,9 @@ Start Back-end Server
 > $ node server.js
 
 ## Build
-Front-end developed with React.js framework.\n
-Back-end developed using Node.js and Express.\n
-Database used for this project is MongoDB.\n
+Front-end developed with React.js framework.<br/>
+Back-end developed using Node.js and Express.<br/>
+Database used for this project is MongoDB.<br/>
 The Cat API used for cat images.
 
 ## About
