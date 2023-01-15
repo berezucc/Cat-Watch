@@ -2,12 +2,12 @@
     position: fixed;
     background-color: rgba(215, 212, 212, 0.718);
     text-align: center;
-    width:30vh;
+    width:50vh;
     justify-content: center;
     border-radius:55px;
     padding: 35px 0;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -5%);
     margin: 0 auto;
     bottom: 0;
 }
