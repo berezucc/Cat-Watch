@@ -22,9 +22,10 @@ Start Back-end Server
 > $ node server.js
 
 ## Build
-Front-end developed with React.js framework.
-Back-end developed using Node.js and Express.
-Database used for this project is MongoDB.
+Front-end developed with React.js framework.<br/>
+Back-end developed using Node.js and Express.<br/>
+Database used for this project is MongoDB.<br/>
+The Cat API used for cat images.
 
 ## About
 I wanted to better familiarize myself with full-stack and MERN stack development.
@@ -35,3 +36,7 @@ The front-end and back-end are hosted on onrender.com
 ## Visuals
 ![Landing Page](/landing_page.JPG)
 ![Saved Images Page](./saved_cats.JPG)
+
+## References
+https://thecatapi.com/ <br/>
+https://www.mongodb.com/languages/mern-stack-tutorial
