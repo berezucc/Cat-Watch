@@ -20,7 +20,7 @@ function Saved(){
     // This method fetches the records from the database.
     useEffect(() => {
     async function getRecords() {
-        const response = await fetch(`http://localhost:5000/record/`);
+        const response = await fetch(`https://cat-watch-front-end-api.onrender.com/record/`);
     
         if (!response.ok) {
         const message = `An error occurred: ${response.statusText}`;
@@ -38,7 +38,7 @@ function Saved(){
     // This method will delete a record
     async function deleteRecord(id) {
         console.log(id);
-        await fetch(`http://localhost:5000/record/${id}`, {
+        await fetch(`https://cat-watch-front-end-api.onrender.com/record/${id}`, {
         method: "DELETE"
     });
     

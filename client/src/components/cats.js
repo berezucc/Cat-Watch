@@ -32,7 +32,7 @@ function CatGenerator() {
         setCatObj(newCat);
         console.log({catObj});
     // Send form data to server
-     fetch("http://localhost:5000/record/add", {
+     fetch("https://cat-watch-front-end-api.onrender.com/record/add", {
        method: "POST",
        headers: {
          "Content-Type": "application/json"
